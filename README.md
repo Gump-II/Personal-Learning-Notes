@@ -48,7 +48,7 @@
 - [开篇-GitHub上搭建Blog批注](https://github.com/Gump-II/Personal-Learning-Notes/blob/master/2015-12-20-GitHub_blog.md)
 
 ## 嵌入式
-- [[keyCallback model](https://github.com/Gump-II/Personal-Learning-Notes/blob/master/2017-07-10-keyCallback.md)
+- [keyCallback model](https://github.com/Gump-II/Personal-Learning-Notes/blob/master/2017-07-10-keyCallback.md)
 - [SYN6288语音模块使用指南](https://github.com/Gump-II/Personal-Learning-Notes/blob/master/2016-12-21-SYN.md)
 - [LCD12864在MSP430和STC52下调试](https://github.com/Gump-II/Personal-Learning-Notes/blob/master/2015-12-21-LCD12864_MSP430_STC52.md)
 
@@ -57,7 +57,7 @@
 - [Effective Java学习总结笔记](https://github.com/Gump-II/Personal-Learning-Notes/blob/master/2017-12-01-Effective%20Java%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93%E7%AC%94%E8%AE%B0.md)
 - [Bayes and Python](https://github.com/Gump-II/Personal-Learning-Notes/blob/master/2017-07-28-Bayes.md)
 - [Notes of openCV-Python](https://github.com/Gump-II/Personal-Learning-Notes/blob/master/2017-04-11-Notes_of_python_openCV.md)
-- [python实现socket通讯(TCP和UDP)]https://github.com/Gump-II/Personal-Learning-Notes/blob/master/2017-03-09-python_udp_tcp.md)
+- [python实现socket通讯TCP和UDP](https://github.com/Gump-II/Personal-Learning-Notes/blob/master/2017-03-09-python_udp_tcp.md)
 - [python send and receive binary files(UDP)](https://github.com/Gump-II/Personal-Learning-Notes/blob/master/2017-01-07-python_udp_client_server_binary_file.md)
 - [Notes of python beginner](https://github.com/Gump-II/Personal-Learning-Notes/blob/master/2017-01-05-Notes_of_python_beginner.md)
 - [Python入门Web server](https://github.com/Gump-II/Personal-Learning-Notes/blob/master/2017-01-03-Pyhonr_web_server.md)
